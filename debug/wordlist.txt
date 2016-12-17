@@ -1,0 +1,10 @@
+table # стол
+keyboard # клавиатура
+phone # телефон
+laptop # ноутбук
+lion # лев
+mouse # мышь
+developer # разработчик
+air conditioning # кондиционер
+turn into # превращение
+tear apart # разорвать на части
